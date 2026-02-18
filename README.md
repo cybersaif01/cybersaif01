@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # Syed Saifullah Z
 
 Cybersecurity Engineer | Detection Engineering | Threat Hunting | SOC Operations  

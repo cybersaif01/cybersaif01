@@ -52,16 +52,6 @@ My journey in cybersecurity has led me to develop a strong interest in threat de
 
 ---
 
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Cybersecurity-FF0000?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%20Security-007ACC?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Threat%20Detection-4D4D4D?&style=for-the-badge&logoColor=white" />
-</div>
-
----
-
 ## Projects
 
 ### SPLINT – Extended Detection and Response Platform
